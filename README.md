@@ -45,5 +45,5 @@
 ### 💀 Activity stats:
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbls&theme=dracula" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruxa40&theme=dracula" alt="GitHub Activity Graph" />
 </div>
