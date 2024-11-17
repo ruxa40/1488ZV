@@ -1,3 +1,7 @@
+<div id="heythere" align="center">
+  <h1>GitHub profile</h1>
+</div>
+
 <div id="badges" align="center">
   <a href="https://vk.com/berise">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge" />
@@ -14,9 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=ruxa40&style=flat-square&color=blue" alt="" />
 </div>
 
-<div id="heythere" align="center">
-  <h1>GitHub profile</h1>
-</div>
 
 ### 🌺 ABOUT ME:
 -  I am 18;
