@@ -38,8 +38,12 @@
 </div>
 
 ### 😈: Most using langs:
-
 <div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxa40" alt="Most using langs" />
 </div>
 
+### 💀 Activity stats:
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbls&theme=dracula" alt="GitHub Activity Graph" />
+</div>
