@@ -31,7 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" alt="C++" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub" />
 </div>
-### Achievements:
+
+### 🏆 Achievements:
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=ruxa40" alt="Achievements" />
 </div>
