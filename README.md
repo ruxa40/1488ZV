@@ -10,10 +10,6 @@
 
 
 
-<div id="heythere" align="center">
-  <h1>GitHub profile</h1>
-</div>
-
 <div id="viewprof" align="center">
   <img src="https://komarev.com/ghpvc/?username=ruxa40&style=flat-square&color=blue" alt="" />
 </div>
